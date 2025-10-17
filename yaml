@@ -1,0 +1,46 @@
+# ===========================================================
+# VERUM OMNIS – GitHub README – YAML front-matter
+# Drop this at the top of README.md if you want Jekyll /
+# GitHub Pages to pick up extra meta-tags & social cards.
+# ===========================================================
+
+title : "VERUM OMNIS – Stateless 9-Brain Forensic AI"
+tagline : "Gold-standard chat-log & evidence analyser – PDF/A-3B, SHA-512 locked, zero network, zero training"
+description : >
+  Stateless, constitutional, 9-brain forensic AI for Android.
+  Ingests chat, docs, images, audio → sealed PDF report.
+  No network, no updates, no human overrides.
+  If ≥3 brains can’t corroborate → INDETERMINATE_DUE_TO_CONCEALMENT.
+url : "https://github.com/your-org/verum-omnis"
+repo : "your-org/verum-omnis"
+license : "AGPL-3.0"
+author : "Verum Omnis Core Team"
+lang : "en"
+theme : "jekyll-theme-minimal" # remove if not using GitHub Pages
+
+# ------------------------------------------------------------------
+# Social / Open-Graph (used by Twitter, LinkedIn, Discord, etc.)
+# ------------------------------------------------------------------
+image : "docs/assets/verum-omnis-3d-logo-1200.png"
+twitter_card : "summary_large_image"
+twitter_site : "@VerumOmnis"
+keywords :
+  - forensic-ai
+  - chat-log-analysis
+  - deepfake-detection
+  - evidence-sealing
+  - android-forensics
+  - sha512
+  - pdf-a3b
+  - stateless-ai
+  - zero-trust
+  - contradiction-engine
+
+# ------------------------------------------------------------------
+# Optional badges (rendered as-is in Markdown)
+# ------------------------------------------------------------------
+badges:
+  - "https://img.shields.io/github/v/release/your-org/verum-omnis?color=gold"
+  - "https://img.shields.io/badge/arch-9--brain-blue"
+  - "https://img.shields.io/badge/license-AGPL--3.0-orange"
+  - "https://img.shields.io/badge/build-offline%20only-green"
